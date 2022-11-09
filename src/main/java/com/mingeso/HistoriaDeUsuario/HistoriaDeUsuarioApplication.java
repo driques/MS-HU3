@@ -1,13 +1,13 @@
-package com.driques.HU3;
+package com.mingeso.HistoriaDeUsuario;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Hu3Application {
+public class HistoriaDeUsuarioApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Hu3Application.class, args);
+		SpringApplication.run(HistoriaDeUsuarioApplication.class, args);
 	}
 
 }
